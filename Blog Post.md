@@ -12,7 +12,7 @@ In Franco Moretti’s Graphs, Maps, Trees first chapter, Abstract Models for Lit
 Rader makes it clear that, in his opinion, the development of novels and literature are based upon the personas of individuals as well as sharing a collective development from all human actions. I feel that there is a correlation between the development of novels and the development of novel genres as both are influenced by similar variables within culture, politics, economics, and social forces. Returning to Moretti’s paper and his analysis of British genres, he analysed over 100 studies of British genre and concluded that 44 genres emerged between 1740 and 1900. What is curious is that the genres did not arise at a generally consistent rate but rather through bursts usually every few decades. These bursts of new genres resulted in the fading of some genres during the same period. This advancement of genres in what Moretti calls a “changing of the guard” like pattern demonstrates the generational qualities that genres have. 
 
 
-![](https://postimg.org/image/3tkixpddr/)
+![](https://cloud.githubusercontent.com/assets/25180154/23812554/0120ff7e-05a9-11e7-93d9-928c44a62652.png)
 
 Figure 1: Links of most common words
 					
