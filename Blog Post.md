@@ -20,6 +20,14 @@ Figure 1: Links of most common words
 This Voyant text analysis (Figure 1) demonstrates how Moretti used words to make his core arguments. As a singular, Moretti uses “novel” whenever he wishes to demonstrate qualitative data and describe novels through uses of adjectives and verbs. In a plural form, “novels” is typically used when describing qualitative data whether it is a year or quantity of publications. Lastly, Moretti uses “genres” much like “novels” among quantitative data whether in a graph or through language. Through out his paper, Moretti clearly defines just how genres progress throughout British literature history which gives insight on our modern society and how the many social forms can change similarly overtime whether in literature, film, fashion, cuisine, music, alcohol, etc. This is evident through the past decade of rebooted movie franchises from the past or the rise of shawarma becoming a popular cuisine over the past two decades.  
 
 If there is one thing I must criticize in Moretti’s paper is the pool labelling of his graphs and timelines. The charts would have been much clearer if the y-axis numbers were always clearly labelled rather then the touching on the meaning amongst the description which is combined with the citation. However, despite these poorly designed graphs, Moretti provides a well thought out and demonstrated argument of the evolution of novels and genres during the early modern period. 
+
+
+
+
+
+
+
+
 Works Cited
 
 McPherson, Tara. "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation." Debates in the Digital Humanities. N.p., 2012. Web. 6 Mar. 2017.
