@@ -3,7 +3,7 @@
 
 I am a 21 year old second year Interactive Arts and Science student attedning Brock University. Currently learning about ways the humanities can be performed effectively in today's digital age.
 
-[Blog post](
+[Blog post](Blog Post.md)
 
 
 
