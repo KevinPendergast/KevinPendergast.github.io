@@ -8,7 +8,7 @@
  [Novel and Genre Evlolution in the Early Modern Period](Blog.md)
  
 #### Solo Presentation
-[Boom Box](index.html)
+[Boom Box](slides.html)
 
   
   
