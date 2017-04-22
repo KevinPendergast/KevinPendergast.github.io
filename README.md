@@ -1,4 +1,4 @@
-# Kevin Pendergast's IASC 2P02 
+# Kevin Pendergast | IASC 2P02 
 ## Research Statement
   
 
