@@ -7,7 +7,7 @@
 
 ## Featured Project 
 
-### The Rise and Fall of the Boom Box
+### The Rise and Fall of the Boombox
 ![](https://s-media-cache-ak0.pinimg.com/originals/8b/3e/f5/8b3ef57758604b4ce0695b398c55dc6e.jpg)
 ##### *Abstract*
 
@@ -17,7 +17,7 @@ My selected media technology, the boombox, has been a piece of technology that I
 
 After completing my presentation and having received a strong mark I was feeling well for how it went. When facing the task of choosing which project I was to feature as my revised project on my portfolio, I knew there were other projects that I perhaps could do more to revise, but my boombox presentation was the project which interested me the most and one which I wished to explore deeper. I already knew there were some improvements which were needed to be made to the slideshow, the main issue was the poor clarity of the text over the background pictures. Professor Christie assisted me in this issue by providing me with text-shadowing code to make all my text legible. Furthermore, other feedback which Professor Christie provided included: a greater focus of part 3 from the original outline (alternate trajectories of the boombox), expand more on the archeology of the media, and complete 5 more slides to make it the slideshow a proper 20x20 Pecha Kucha Presentation. I followed through by completing all these suggested improvements. I created slides, the first one titled “Alternative Paths of Development”, to talk about the different theoretical paths which technology could have developed. Some examples of such include: boombox shrinking in size to make it more portable or becoming more spherical to emit audio 360 degrees comparable with the design of the Beat’s Pill of today. I also delved into the archeology more of the boombox with my revisions. I created slides where I would talk about the development of the popularity of bass, why it became popular, and had the boombox not been there to provide its development, would music and culture be the same? Furthermore, I included a slide to touch on the development and importance of the boombox becoming a fashion item. The boombox was a early example of technology being a fashion item and made it possible for other technologies to become the same, this is evident in today’s society through headphones like Beat’s by Dre. 
 
-#### View: [The Rise and Fall of the Boom Box](slides.html)
+#### View: [The Rise and Fall of the Boombox](slides.html)
 
 
 
